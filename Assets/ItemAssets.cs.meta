@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e75f15ded3f0288458a3ea61fecb27b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bag: {fileID: 5745750874446802145, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  - Knife: {fileID: -5381645550239608907, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  - Hatchet: {fileID: 5911989558933189244, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  - Axe: {fileID: -3935550979151978627, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  - Wood: {fileID: -8855575213089708194, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  - Fiber: {fileID: -6524557870087552386, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  - Bone: {fileID: 4236170588014732897, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  - Hide: {fileID: -3136500780818182661, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  - Stone: {fileID: 7362513078261523979, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  - Meat: {fileID: -852020159920023987, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  - CokkedMeat: {fileID: -2339303787680317467, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  - Berry: {fileID: 2007725932708533782, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  - CokkedBerry: {fileID: 1659072959330653740, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  - Empty: {fileID: 3817202870664588531, guid: ed079fe2d4e63734eb2165ecfddf4891, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
